@@ -95,3 +95,5 @@ def main():
     run(
         app=app
     )
+
+main()
